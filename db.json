@@ -1,0 +1,154 @@
+{
+  "movies": [
+    {
+      "title": "The Matrix",
+      "genre": "Science fiction",
+      "releaseYear": 1999,
+      "language": "English",
+      "comments": [
+        {
+          "user": "A mind-bending action thriller that explores the nature of reality and human freedom"
+        },
+        {
+          "user": "One of the most influential and innovative films of all time, with groundbreaking visual effects and a captivating story"
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "title": "Parasite",
+      "genre": "Dark comedy",
+      "releaseYear": 2019,
+      "language": "Korean",
+      "comments": [
+        {
+          "user": "A brilliant satire that exposes the class divide and social inequality in modern society"
+        },
+        {
+          "user": "A masterpiece of storytelling that combines humor, suspense, and emotion in a unique and unforgettable way"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "title": "The Lion King",
+      "genre": "Animation",
+      "releaseYear": 1994,
+      "language": "English",
+      "comments": [
+        {
+          "user": "A timeless classic that tells the story of a young lion's journey to become the king of the Pride Lands"
+        },
+        {
+          "user": "A beautiful and inspiring film that features memorable characters, songs, and scenes"
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "title": "The Godfather",
+      "genre": "Crime drama",
+      "releaseYear": 1972,
+      "language": "English",
+      "comments": [
+        {
+          "user": "A masterpiece of cinema that depicts the rise and fall of a powerful mafia family"
+        },
+        {
+          "user": "A gripping and epic saga that explores the themes of loyalty, power, and morality"
+        }
+      ],
+      "id": "4"
+    },
+    {
+      "title": "Spirited Away",
+      "genre": "Fantasy",
+      "releaseYear": 2001,
+      "language": "Japanese",
+      "comments": [
+        {
+          "user": "A magical adventure that follows a young girl's journey through a mysterious and enchanting world"
+        },
+        {
+          "user": "A stunning and imaginative film that showcases the creativity and vision of Hayao Miyazaki"
+        }
+      ],
+      "id": "5"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "language": "English",
+      "comments": [
+        {
+          "user": "A moving tale of hope and resilience that chronicles the friendship of two prisoners"
+        },
+        {
+          "user": "A powerful and uplifting film that is widely regarded as one of the best movies ever made"
+        }
+      ],
+      "id": "6"
+    },
+    {
+      "title": "Titanic",
+      "genre": "Romance",
+      "releaseYear": 1997,
+      "language": "English",
+      "comments": [
+        {
+          "user": "A tragic love story that unfolds on board the doomed ship that sank in the Atlantic Ocean"
+        },
+        {
+          "user": "A spectacular and emotional film that features stunning visuals and a legendary performance by Leonardo DiCaprio and Kate Winslet"
+        }
+      ],
+      "id": "7"
+    },
+    {
+      "title": "Inception",
+      "genre": "Science fiction",
+      "releaseYear": 2010,
+      "language": "English",
+      "comments": [
+        {
+          "user": "A mind-blowing thriller that delves into the realm of dreams and subconscious manipulation"
+        },
+        {
+          "user": "A complex and intelligent film that challenges the audience to question their perception of reality"
+        }
+      ],
+      "id": "8"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "genre": "Fantasy",
+      "releaseYear": 2003,
+      "language": "English",
+      "comments": [
+        {
+          "user": "An epic conclusion to the legendary saga that pits the forces of good against the evil Dark Lord"
+        },
+        {
+          "user": "A magnificent and thrilling film that features breathtaking battles, stunning scenery, and a satisfying ending"
+        }
+      ],
+      "id": "9"
+    },
+    {
+      "title": "The Avengers",
+      "genre": "Superhero",
+      "releaseYear": 2012,
+      "language": "English",
+      "comments": [
+        {
+          "user": "A spectacular action blockbuster that brings together Earth's mightiest heroes to save the world"
+        },
+        {
+          "user": "A fun and entertaining film that showcases the charisma and chemistry of the Marvel Cinematic Universe"
+        }
+      ],
+      "id": "10"
+    }
+  ]
+}

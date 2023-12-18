@@ -1,0 +1,80 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  padding: 1em;  
+  box-shadow: 1px 1px 5px rgba(34, 77, 251, 0.4);
+  width: 200px;
+}
+
+.card a {
+  color: #213547;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;  
+  gap: 10px;
+  
+}
+
+textarea {  
+  padding: 1em;
+  margin: 5px;
+  border: none;
+  box-shadow: 1px 1px 5px rgba(34, 77, 251, 0.4);
+  border-radius: 5px;
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.comments-wrapper {
+  background-color: rgba(34, 77, 251, 0.1);  
+}
+
+.comment {
+  background-color: rgba(34, 77, 251, 0.1);
+  margin: 5px;
+  padding: 5px;
+}
+
+h5 {  
+  margin: 0px;
+}
+
+p {
+  background-color: rgba(34, 77, 251, 0.1);
+  padding: 10px;
+}
+
+.navbar {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-bottom: 50px;
+  align-content: space-around;
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.navbar a {
+  display: flex;
+  justify-content: space-around;
+}
